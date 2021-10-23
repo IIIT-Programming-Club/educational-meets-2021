@@ -9,6 +9,7 @@ Topics to cover:
 - Problems involving equations
     - https://codeforces.com/problemset/problem/1520/D 
     - Count pairs where (Pref[i] - Pref[j]) % mod = (i - j) % mod
+    - https://codeforces.com/contest/1324/problem/D 
     - Given a Binary string, count substrings with freq_1 > freq_0.
     - https://atcoder.jp/contests/abc168/tasks/abc168_e
 
