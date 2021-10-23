@@ -31,10 +31,10 @@ signed main()
             if(d == 0) pw[d][i] = 1;
             else pw[d][i] = (pw[d - 1][i] * i);
         }
-        ll sum = 0;
+        ll coeff = 0;
         for(int i = 1; i <= n; i++) {
-            sum += x[d][i];
-            A[i] += sum * pw[d][i];
+            coeff += x[d][i];
+            A[i] += coeff * pw[d][i];
         }
     }
     for(int i = 1; i <= n; i++) {

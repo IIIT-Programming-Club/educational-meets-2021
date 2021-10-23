@@ -26,6 +26,7 @@ signed main()
     int q;
     cin >> q;
     while(q--) {
+        // complexity: O(log_Ai)
         string s;
         int l, r;
         cin >> s >> l >> r;
