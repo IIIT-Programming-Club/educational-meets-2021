@@ -8,6 +8,7 @@ Topics to cover:
     - http://docs.icpc.global/icpcMoscow.pdf problem E
 - Problems involving equations
     - https://codeforces.com/problemset/problem/1520/D 
+	- https://codeforces.com/problemset/problem/1398/C
     - Count pairs where (Pref[i] - Pref[j]) % mod = (i - j) % mod
     - https://codeforces.com/contest/1324/problem/D 
     - Given a Binary string, count substrings with freq_1 > freq_0.
