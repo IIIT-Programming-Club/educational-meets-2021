@@ -1,7 +1,8 @@
 ## Topics
 - Count some result `r` if some parameter was set to `k`. Observation, either `r <= N^0.5` or `k <= N^0.5`.
     - [Problem 1](https://codeforces.com/contest/792/problem/E) 
-    - [Problem 2](https://atcoder.jp/contests/arc126/tasks/arc126_c) 
+    - [Problem 2](https://atcoder.jp/contests/arc126/tasks/arc126_c)
+    - jump update + sqrt
 - Knapsack
     - [Problem 1](https://atcoder.jp/contests/dp/tasks/dp_d)
     - [Problem 2](https://atcoder.jp/contests/dp/tasks/dp_e)
